@@ -1,0 +1,5 @@
+include: package:flutter_lints/flutter.yaml
+
+# Additional rules or overrides can be specified here.
+# For more information about this file, see
+# https://dart.dev/guides/language/analysis-options
